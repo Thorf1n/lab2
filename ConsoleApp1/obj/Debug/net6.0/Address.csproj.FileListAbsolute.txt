@@ -1,0 +1,14 @@
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.csproj.CoreCompileInputs.cache
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.exe
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.deps.json
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.runtimeconfig.json
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.dll
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Address.pdb
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.dll
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Address.dll
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.pdb
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Address.genruntimeconfig.cache
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Address.dll
