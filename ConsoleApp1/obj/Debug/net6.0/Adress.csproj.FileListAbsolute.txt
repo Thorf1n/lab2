@@ -1,0 +1,4 @@
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Adress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Adress.AssemblyInfoInputs.cache
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Adress.AssemblyInfo.cs
+C:\Users\Thorfin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Adress.csproj.CoreCompileInputs.cache
